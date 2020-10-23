@@ -1,0 +1,11 @@
+
+@media (min-width:768px){
+	.sticky-klb-header,
+	.sticky-header-bar{
+		top: 32px !important;
+	}
+}
+
+.bootstrap .option_field select.input-sm {
+    line-height: 1.38461538;
+}
